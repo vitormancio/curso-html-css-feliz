@@ -1,0 +1,18 @@
+#button {
+    display: inline-block;
+    background:#F25A70;
+    width: 170px;
+    height: 60px;
+    line-height: 60px;
+    box-shadow: 5px 5px 0px black;
+    margin-right:0px;
+    text-align: center;
+    
+    
+}
+
+#button:hover {
+    background:white;
+    color:#F25A70;
+    
+}
