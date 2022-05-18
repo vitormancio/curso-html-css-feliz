@@ -1,4 +1,4 @@
-.header {
+.main-header {
     display:flex;
     justify-content: space-between;
     background: #7C5E99;
@@ -6,7 +6,7 @@
     padding:10px 20px;
     align-items: center;
 }
-.header .logo {
+.main-header .logo {
     font-family: 'Dawning of a New Day', cursive;
     color: white;
     text-shadow: 4px 4px 0 black;
