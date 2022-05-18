@@ -1,4 +1,4 @@
-.button {
+.main-button {
     display: inline-block;
     background:#F25A70;
     width: 170px;
@@ -14,7 +14,7 @@
     
 }
 
-.button:hover {
+.main-button:hover {
     background:white;
     color:#F25A70;
     
